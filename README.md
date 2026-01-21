@@ -24,7 +24,7 @@ Privacy policy for Soalan PKSK mobile application.
 ## 🔗 Integration
 Use this URL in Google Play Store:
 ```
-Privacy Policy: https://pijainett.github.io/soalan-pksk-privacy/
+Privacy Policy: https://pijai.github.io/soalan-pksk-privacy/
 ```
 
 ## 📁 Files
@@ -32,7 +32,7 @@ Privacy Policy: https://pijainett.github.io/soalan-pksk-privacy/
 - `README.md` - This documentation
 
 ## 📧 Contact
-For privacy inquiries: **privacy@pijainett.com**
+For privacy inquiries: **pijainett@gmail.com**
 
 ---
 *This privacy policy ensures transparency and compliance for Soalan PKSK users.*
